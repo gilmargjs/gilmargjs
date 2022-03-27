@@ -1,4 +1,4 @@
-## Olá! Eu sou Gilmar José 
+## Gilmar José 
 <div align="left">
   <a href="https://github.com/gilmargjs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilmargjs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
