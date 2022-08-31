@@ -5,10 +5,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilmargjs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div Display="inline-block"><br>
-  <img align="center" alt="Gil-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gil-Node" height="30" width="40" src="https://img.icons8.com/fluency/452/node-js.png">
   <img align="center" alt="Gil-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gil-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gil-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gil-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-plain.svg">
+  <img align="center" alt="Gil-Node" height="30" width="40" src="https://img.icons8.com/fluency/452/node-js.png">
   <img align="center" alt="Gil-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gil-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
  </div>
